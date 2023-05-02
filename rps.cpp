@@ -1,5 +1,8 @@
 #include <iostream>
-
+#include <string>
+#include <ctype.h>
+#include <time.h>
+#include "rps_functions.hpp"
 
 int main(){
     std::cout << "Welcome To Rock, Paper, Scissors!\n\n";
